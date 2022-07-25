@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Raghav67816
+- 👋 Hi, I’m @Raghav67816 currently studying in 9th standard.
 - 👀 I’m interested in Python, Web Development, Software Development and Machine Learning.
 - 🌱 I’m currently learning Web Development.
 - 💞️ I’m looking to collaborate on ...
